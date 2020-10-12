@@ -1,0 +1,22 @@
+.more-screen .icon-row {
+  margin-top: 35px;
+}
+
+.more-suggestions {
+  margin-top: 50px;
+  border-top: var(--main-border);
+  padding-top: 40px;
+}
+
+.more-suggestions__title {
+  margin-bottom: 30px;
+  font-weight: 600;
+}
+
+.more-suggenstions__icons__icon {
+  width: 70px;
+  height: 70px;
+  border: 1px solid lightgrey;
+  border-radius: 10px;
+  background-color: var(--cacaoYellow);
+}
